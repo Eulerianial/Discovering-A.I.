@@ -271,8 +271,8 @@ echo "--------------------------------------------------------------"
 echo ". "
 
 
-pip install --upgrade ipython
-pip install --upgrade jupyter
+sudo pip install --upgrade ipython
+sudo pip install --upgrade jupyter
 
 
 
